@@ -1,5 +1,5 @@
 # Eye-Exercise
-A set of eyes on screen that have eye balls that follow the cursor [To preview click here](https://raw.githack.com/skaramje/Eye-Exercise/main/index.html)
+A set of eyes on screen that have eye balls that follow the cursor [To preview click here](https://skaramje.github.io/Eye-Exercise/)
 
 ## Installation:
 * Method 1: `git clone` repository and run html file
